@@ -1,5 +1,5 @@
-# S4M
-Official pytorch implementation of “S4M: Generating Radiology Reports by A Single Model for Multiple Body Parts”
+# X-RGen
+Official pytorch implementation of “Act Like a Radiologist: Radiology Report Generation across Anatomical Regions”
 
 
 Coming Soon...
