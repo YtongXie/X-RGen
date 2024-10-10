@@ -1,7 +1,7 @@
 # Official pytorch implementation of “X-RGen”
 
 <p align="left">
-    <img src="overall3.pdf" width="85%" height="85%">
+    <img src="overall.png" width="85%" height="85%">
 </p>
 
 This repo holds the Pytorch implementation of X-RGen:<br />
