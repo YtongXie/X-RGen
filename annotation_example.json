@@ -1,0 +1,188 @@
+{
+    "train": [
+        {
+            "id": "CXR2384_IM-0942",
+            "report": "The heart size and pulmonary vascularity appear within normal limits. A large hiatal hernia is noted. The lungs are free of focal airspace disease. No pneumothorax or pleural effusion is seen. Degenerative changes are present in the spine.",
+            "image_path": [
+                "CXR2384_IM-0942/0.png",
+                "CXR2384_IM-0942/1.png"
+            ],
+            "split": "train",
+            "tag": "iu"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "train",
+            "tag": "axr"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "train",
+            "tag": "knee"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "train",
+            "tag": "wrist"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "train",
+            "tag": "wrist"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "train",
+            "tag": "hip"
+        }
+    ],
+    "test": [
+        {
+            "id": "CXR38_IM-1911",
+            "report": "Lungs are clear. There is no pneumothorax or pleural effusion. The heart and mediastinum are within normal limits. Bony structures are intact.",
+            "image_path": [
+                "CXR38_IM-1911/0.png",
+                "CXR38_IM-1911/1.png"
+            ],
+            "split": "test",
+            "tag": "iu"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "test",
+            "tag": "axr"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "test",
+            "tag": "knee"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "test",
+            "tag": "wrist"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "test",
+            "tag": "wrist"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "test",
+            "tag": "hip"
+        }
+    ],
+    "val": [
+        {
+            "id": "CXR2279_IM-0865",
+            "report": "Heart size is enlarged. The aorta is unfolded. Otherwise the mediastinal contour is normal. There are streaky bibasilar opacities. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.",
+            "image_path": [
+                "CXR2279_IM-0865/0.png",
+                "CXR2279_IM-0865/1.png"
+            ],
+            "split": "val",
+            "tag": "iu"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "val",
+            "tag": "axr"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "val",
+            "tag": "knee"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "val",
+            "tag": "wrist"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "val",
+            "tag": "wrist"
+        },
+        {
+            "id": "xxx",
+            "report": "xxx",
+            "image_path": [
+                "xxx/0.png",
+                "xxx/1.png"
+            ],
+            "split": "val",
+            "tag": "hip"
+        }
+    ]
+}
