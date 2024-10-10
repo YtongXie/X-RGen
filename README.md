@@ -27,7 +27,7 @@ pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 --e
 pip install -r requirements.txt
 ```
 ## Download our X-RGen weights
-You can download the models we trained for our dataset from [here](https://github.com/cuhksz-nlp/R2Gen/blob/main/data/r2gen.md).
+You can download the models we trained for our dataset from [here](https://drive.google.com/file/d/1mkT3PcrE_s9vkjqg_Vn5rdmh-z2bhfa6/view?usp=drive_link).
 
 ## Data Preparation
 * We will not disclose our private data in order to protect privacy. To utilize our code, please format your data according to the specifications outlined below. <br/>
