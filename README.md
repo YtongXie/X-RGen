@@ -25,7 +25,11 @@ cd X-RGen
 ```
 pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu116
 pip install -r requirements.txt
+
+cd pycocoevalcap
+Download the pycocoevalcap package from [here](https://drive.google.com/drive/folders/1WFxcn2G2bUG-bp7pMEXKxrFWyk1rZmbh?usp=drive_link) and place them in the `pycocoevalcap` directory.
 ```
+
 
 ## Download our X-RGen weights
 You can download the models we trained for our dataset from [here](https://drive.google.com/file/d/1mkT3PcrE_s9vkjqg_Vn5rdmh-z2bhfa6/view?usp=drive_link).
