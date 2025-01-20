@@ -6,7 +6,7 @@
 
 This repo holds the Pytorch implementation of X-RGen:<br />
 
-**[ACCV2024 (oral)] Act Like a Radiologist: Radiology Report Generation across Anatomical Regions** 
+**[ACCV2024 (oral)][Act Like a Radiologist: Radiology Report Generation across Anatomical Regions](https://openaccess.thecvf.com/content/ACCV2024/html/Chen_Act_Like_a_Radiologist_Radiology_Report_Generation_across_Anatomical_Regions_ACCV_2024_paper.html)** 
 
 ## Usage
 * Create a new conda environment 
